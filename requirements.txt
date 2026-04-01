@@ -1,0 +1,7 @@
+tensorflow>=2.12.0
+convokit
+nltk
+ipywidgets
+matplotlib
+numpy
+jupyter

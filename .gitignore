@@ -1,0 +1,26 @@
+# Modèle entraîné (lourd, optionnel sur GitHub)
+chatbot_model.keras
+
+# Artefacts générés
+tokenizer.pkl
+responses.json
+
+# Données ConvoKit (téléchargées localement)
+*.zip
+movie-corpus/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
